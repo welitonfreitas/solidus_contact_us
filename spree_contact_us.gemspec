@@ -1,7 +1,7 @@
 # encoding: UTF-8
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
-  s.name        = 'solidus_contact_us'
+  s.name        = 'spree_contact_us'
   s.version     = '2.2.0'
   s.summary     = 'Reworked the contact_us gem to add a basic contact us form to Spree.'
   s.description = 'Reworked the contact_us gem to add a basic contact us form to Spree.'
